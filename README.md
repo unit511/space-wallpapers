@@ -1,5 +1,5 @@
 # Space Wallpapers
-A collections of spaced themed wallpapers from NASA's website in various resolutions, including 1080p, 1440p, 4K and 8K.
+A collections of spaced themed wallpapers from NASA's website in various resolutions, including 900p, 1080p, 1440p, 4K and 8K.
 
 All of the images are from https://images.nasa.gov/
 
