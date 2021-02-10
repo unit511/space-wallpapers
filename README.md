@@ -27,3 +27,4 @@ Original images can be found here for each of the wallpapers:
 * Earth https://images.nasa.gov/details-PIA18033
 * cepheus_BC https://images.nasa.gov/details-PIA23126
 * W5 images-assets.nasa.gov/image/PIA11046/PIA11046~orig.jpg
+* Cygnus X images-assets.nasa.gov/image/PIA15253/PIA15253~orig.jpg
