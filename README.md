@@ -30,3 +30,4 @@ Original images can be found here for each of the wallpapers:
 * Cygnus_X images-assets.nasa.gov/image/PIA15253/PIA15253~orig.jpg
 * Milky_Way images-assets.nasa.gov/image/PIA12348/PIA12348~orig.jpg
 * life_and_death images-assets.nasa.gov/image/PIA17019/PIA17019~orig.jpg
+* NA_Nebula_2 images-assets.nasa.gov/image/PIA13844/PIA13844~orig.jpg
