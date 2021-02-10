@@ -26,3 +26,4 @@ Original images can be found here for each of the wallpapers:
 * spiral_galaxy https://images.nasa.gov/details-GSFC_20171208_Archive_e002154
 * Earth https://images.nasa.gov/details-PIA18033
 * cepheus_BC https://images.nasa.gov/details-PIA23126
+* W5 images-assets.nasa.gov/image/PIA11046/PIA11046~orig.jpg
