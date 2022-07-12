@@ -1,5 +1,5 @@
 # Space Wallpapers
-A collections of spaced themed wallpapers from NASA's website in various resolutions, including 1080p, 1440p, 4K and 8K.
+A collections of spaced themed wallpapers from NASA in various resolutions, up to 8K.
 
 Images were cropped to 16:9 aspect ratio and downscaled to all resolutions below the original.
 
@@ -30,4 +30,5 @@ Original images can be found here for each of the wallpapers:
 * life_and_death https://images.nasa.gov/details-PIA17019
 * na_nebula_2 https://images.nasa.gov/details-PIA13844
 * superbubble https://svs.gsfc.nasa.gov/14018
-* webb_1 https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1
+* webb_first_deep_field https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1
+* webb_carina https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ
