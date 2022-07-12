@@ -32,3 +32,6 @@ Original images can be found here for each of the wallpapers:
 * superbubble https://svs.gsfc.nasa.gov/14018
 * webb_first_deep_field https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1
 * webb_carina https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ
+* webb_stephans_quintet https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A
+* webb_southern_ring https://webbtelescope.org/contents/media/images/2022/033/01G70BGTSYBHS69T7K3N3ASSEB
+* webb_carina_miri https://webbtelescope.org/contents/media/images/2022/031/01G780WF1VRADDSD5MDNDRKAGY
