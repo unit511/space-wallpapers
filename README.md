@@ -30,3 +30,4 @@ Original images can be found here for each of the wallpapers:
 * life_and_death https://images.nasa.gov/details-PIA17019
 * na_nebula_2 https://images.nasa.gov/details-PIA13844
 * superbubble https://svs.gsfc.nasa.gov/14018
+* webb_1 https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1
