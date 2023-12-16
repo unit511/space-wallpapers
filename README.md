@@ -36,3 +36,5 @@ Original images can be found here for each of the wallpapers:
 * webb_stephans_quintet https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A
 * webb_southern_ring https://webbtelescope.org/contents/media/images/2022/033/01G70BGTSYBHS69T7K3N3ASSEB
 * webb_carina_miri https://webbtelescope.org/contents/media/images/2022/031/01G780WF1VRADDSD5MDNDRKAGY
+* webb_cassiopeia_a https://webbtelescope.org/contents/media/images/2023/149/01HGGZ4TPD8XFNPCBTZ2QYM0ZM
+* webb_rho_ophiuchi https://webbtelescope.org/contents/media/images/2023/128/01H449193V5Q4Q6GFBKXAZ3S03
