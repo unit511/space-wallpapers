@@ -38,3 +38,12 @@ Original images can be found here for each of the wallpapers:
 * webb_carina_miri https://webbtelescope.org/contents/media/images/2022/031/01G780WF1VRADDSD5MDNDRKAGY
 * webb_cassiopeia_a https://webbtelescope.org/contents/media/images/2023/149/01HGGZ4TPD8XFNPCBTZ2QYM0ZM
 * webb_rho_ophiuchi https://webbtelescope.org/contents/media/images/2023/128/01H449193V5Q4Q6GFBKXAZ3S03
+* webb_ic_348 https://webbtelescope.org/contents/media/images/2023/151/01HFC82GPW3B8RPAJ3VWXJEAHZ
+* webb_ring https://webbtelescope.org/contents/media/images/01H82G0PP38P6PBXQ11BEVSMY0
+* webb_pillars https://webbtelescope.org/contents/media/images/01GK2KKTR81SGYF24YBGYG7TAP
+* webb_chamaeleon https://webbtelescope.org/contents/media/images/2023/106/01GQ2TJ92FQK45MY7JEYKWS834
+* earthrise https://webbtelescope.org/contents/media/images/4171-Image
+* triton https://webbtelescope.org/contents/media/images/2020/54/4767-Image
+* pluto https://webbtelescope.org/contents/media/images/2020/54/4766-Image
+* webb_cartwheel https://webbtelescope.org/contents/media/images/2022/039/01G8JXN0K2VBQP112RNSQWTCTH
+* webb_tarantula https://webbtelescope.org/contents/media/images/2022/041/01GA76MYFN0FMKNRHGCAGGYCVQ
